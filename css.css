@@ -1,0 +1,23 @@
+head{background-color:lightyellow}
+body{background-color:lightyellow}
+h1{color:chocolate;
+	text-align:center}
+p{color:saddlebrown;
+	background-color:lightyellow;
+	text-align:justify;
+	font-size:large;
+	font-family:serif;
+	font font-weight:bold}
+img{width:300px;
+	height:300px;
+	border-radius:50%;
+	text-align:center}
+ul{color:sienna;
+	background-color:lightyellow;
+	list-style-type:none;text-align:justify;
+	font-family:sans-serif;
+	font-size:large}
+body{background-image: url("cactus.jpg")}
+h2{background-color:lightyellow}
+table{background-color:lightyellow}
+h3{background-color:lightyellow}
